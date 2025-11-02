@@ -5,7 +5,7 @@
 🔥 Supervised by prof. Bas Baccarne & Yannick Christiaens ([project overview](https://github.com/basbaccarne/human-centered-design))    
 🌱 Grown at Ghent University, Industrial Design Engineering    
 
-*Dag/Maand/Jaar van de laatste update*   
+*Dag/Maand/Jaar van de laatste delivery date*   
 
 ## Samenvatting
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
